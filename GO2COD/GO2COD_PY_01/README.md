@@ -22,14 +22,13 @@ In this task, the user is challenged to predict a randomly generated number in t
 3. **Proximity Feedback**: The degree to which the guess resembles the goal.
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/codelassey/GO2COD_PY_01.git
-   cd GO2COD_PY_01
-   python script.py
+> This was a repo on its own but I changed the location to organize my github. Hence, use the link below to download the `script.py` without having to clone this entire repo.
+
+[DOWNLOAD HERE](https://github.com/codelassey/internship-tasks/blob/master/GO2COD/GO2COD_PY_01/script.py)
+
 
 ## Use Case Example 
-```plaintext
+```
 The Number Guessing AI welcomes you! Select a range to estimate:
 1. From 1 to 50
 2. From 1 to 100
@@ -53,3 +52,4 @@ You're so near!
 Put in your estimate: 90 
 Well done! 
 You made 5 guesses about the number
+```
