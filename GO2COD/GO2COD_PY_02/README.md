@@ -26,16 +26,11 @@ pip install beautifulsoup4
 pip install bs4
 ```
 ## How To Use
+> To organize my github page, I removed the projects as standalone repos to this page. You can download the py file and not necessarily having to download the whole repo. Thanks
 
-1. Clone the respository:
-```bash
-git clone https://github.com/codelassey/GO2COD_PY_02.git
-```
-2. Open the project directory:
-```bash
-cd GO2COD_PY_02
-```
-3. Run the script:
+Download the `webscrapper.py` file from this page.
+
+Run the script:
 ```bash
 python3 web_scrapper.py
 ```
